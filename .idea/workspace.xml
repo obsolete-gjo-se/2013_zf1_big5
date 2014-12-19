@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="ed63a5df-88b9-41aa-90ec-689117c853e2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_works/dev/db/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_works/dev/db/model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_works/dev/db/sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_works/dev/db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_works/dev/ooa_ood" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_works/dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_works" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/configs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/partials" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/error" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/files" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/form-example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/function-tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/resource-actions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/resource-controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/roles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/rules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/sitemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/users" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/home/controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/home/models/forms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/home/models" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/home/views/scripts/index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/home/views/scripts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/home/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/home" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/users/controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/users/models/forms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/users/models" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/users/views/scripts/index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/users/views/scripts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/users/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/users" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/helpers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/scripts/error" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/scripts/index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/scripts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sessions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/tmp/Proxy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Acl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Auth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Controller/Action/Helper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Controller/Action" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Diverse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Users" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/ausBase.EAP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Decorator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Element" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Filter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Validator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Helper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Inflector" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Loader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/entities/Repository" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/entities" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/View/Helpers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/View" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/patches" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/print" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/screen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/scripts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/admin/controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/admin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/frontend/controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/frontend" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/personalitytest/controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/personalitytest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/datasources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/downloads" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/logs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/macros" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/scripts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/library" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin/controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin/models" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/frontend/controllers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/frontend/models" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/frontend" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/fixtures/Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/fixtures" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/library" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/log/report" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/templates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_works/dev/db/zugangsdaten.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/Bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/configs/application.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/configs/application.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/ErrorController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/IndexController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/layout_admin.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/layout_default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/layout_front.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/layout_test.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/partials/FooterPartial.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/partials/HeaderPartial.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/partials/NavAdminPartial.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/partials/NavPartial.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/partials/ScriptFooterPartial.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/layouts/scripts/partials/SkiplinkPartial.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/ErrorController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/FilesController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/FormExampleController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/FunctionTestsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/IndexController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/ResourceActionsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/ResourceControllersController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/RolesController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/RulesController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/SitemapController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/UsersController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/Verify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/ActionsForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/ControllersForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/ControllersSelectForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/ExampleForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/FilesForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/FunctionTestsForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/LoginForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/ProvidersSelectForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/RolesForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/RolesMultiCheckboxForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/RolesRulesForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/RolesSelectForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/SitemapForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/models/forms/UsersForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/error/forbidden-error.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/error/index-error.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/files/index-files.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/files/store-files-from-system.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/files/update-files.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/form-example/show-example-form.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/function-tests/create-function-tests.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/function-tests/execute-function-tests.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/function-tests/index-function-tests.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/function-tests/standard-link-open-site.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/function-tests/update-function-tests.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/index/index-index.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/index/session-test.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/index/show-all-files.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/index/show-php-info.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/resource-actions/create-resource-actions.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/resource-actions/index-resource-actions.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/resource-actions/update-resource-actions.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/resource-controllers/create-resource-controllers.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/resource-controllers/index-resource-controllers.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/resource-controllers/update-resource-controllers.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/roles/create-roles.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/roles/index-roles.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/roles/rules.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/roles/update-roles.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/rules/index-rules.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/sitemap/create-site.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/sitemap/index-sitemap.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/sitemap/show-all-urls-with-function-tests.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/sitemap/update-site.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/users/create-users.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/users/index-users.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/users/login.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/users/search-users.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/scripts/users/update-users.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/home/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/home/controllers/IndexController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/home/views/scripts/index/index-index.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/users/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/users/controllers/IndexController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/users/views/scripts/index/index-sitemap.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/scripts/error/error.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/scripts/index/index.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cache/zend_cache---internal-metadatas---myroutes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/cache/zend_cache---myroutes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/tmp/Proxy/__CG__Jbig3EntityResourceActionsEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Version.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Acl/Manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Auth/AuthAdapter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Controller/Action/Helper/Messenger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Controller/BaseController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Diverse/CopyOfGetFiles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Diverse/FilterFiles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Diverse/GetFiles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/BaseEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/CountriesEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/DimensionEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/FilesEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/FoldersEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/FunctionTestsEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/ItemEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/ProvidersEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/PtestAnswerEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/PtestEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/QuestionEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/CountriesRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/DimensionRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/FilesRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/FoldersRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/FunctionTestsRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/ItemRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/ProvidersRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/PtestAnswerRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/PtestRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/QuestionRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/ResourceActionsRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/ResourceControllersRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/RolesRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/RulesRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/SitemapRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/SubdimensionRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/Repository/UsersRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/ResourceActionsEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/ResourceControllersEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/RolesEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/RulesEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/SitemapEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/SubdimensionEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Entity/UsersEntity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/BaseForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Decorator/Backlink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Decorator/Fieldset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Decorator/Input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Decorator/Label.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Decorator/QuestionsRadio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Decorator/Radio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Decorator/Submit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Decorator/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Element/Radio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Element/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Validator/DoctrineNoRecordExists.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Form/Validator/EmailAddress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Helper/AccessManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Inflector/Inflector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Loader/NamespaceAutoloader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/entities/Entity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/entities/ManyToManyInverse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/entities/ManyToManyOwing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/entities/ManyToOneInverse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/entities/ManyToOneOwning.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/entities/OneToOneOwning.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/entities/Repository/EntityRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/html/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/html/img.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/html/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/html/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/html/sub.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/html/table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/Templates/versuche.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/View/Helpers/BaseUrlHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/View/Helpers/LoggedInUserHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/View/Helpers/Messenger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/Jbig3/View/Helpers/TickHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/central.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/patches/patch_central.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/patches/patch_nav_vlist.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/print/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/screen/basemod.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/screen/basemod_fullheight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/screen/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/screen/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/screen/nav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/yaml/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/yaml/iehacks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/yaml/yaml-focusfix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/bin/doctrine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/controllers/IndexControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/admin/controllers/FormExampleControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/admin/controllers/SitemapControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/frontend/controllers/FormExampleControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/frontend/controllers/PersonalitytestControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/frontend/controllers/QuestionControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/frontend/controllers/UserControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/personalitytest/controllers/OfferControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/personalitytest/controllers/QuestionsControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/application/modules/personalitytest/controllers/SummaryControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/downloads/mydata.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/iim.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/logs/iMacrosLog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/logs/iimRunnerLog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/macros/#Current.iim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/macros/Current.iim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/function/macros/frontend.iim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/allTests.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/ControllerTestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin/controllers/FilesControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin/controllers/FunctionTestsControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin/controllers/ResourceActionsControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin/controllers/ResourceControllersControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin/controllers/RolesControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin/controllers/RulesControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin/controllers/UsersControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/admin/controllers/VerifyTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/frontend/controllers/IndexControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/application/modules/frontend/controllers/UsersControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/templates/ExampleAssertsCode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/unit/templates/ExampleTestsCode.php" />
+    </list>
+    <ignored path="com_users.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1688" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="68d4875d-b7ab-4506-bc6b-525ec7adf69a">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="d2b1bcbc-0b55-4696-9e6d-021f5cbe63eb">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\Dropbox\Projekte\workspace\DefaultWorkSpace\com_users" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Dokumente und Einstellungen\Gregory\Anwendungsdaten\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="X:\Dropbox\Projekte\workspace\DefaultWorkSpace\com_user" />
+          <option name="myCopyRoot" value="X:\Dropbox\Projekte\workspace\DefaultWorkSpace\com_user" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="X:\Dropbox\Projekte\workspace\DefaultWorkSpace\com_user" />
+          <option name="myCopyRoot" value="X:\Dropbox\Projekte\workspace\DefaultWorkSpace\com_user" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed63a5df-88b9-41aa-90ec-689117c853e2" name="Default" comment="" />
+      <created>1368341207546</created>
+      <updated>1368341207546</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1688" height="1028" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25275397" sideWeight="0.6708286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+</project>
+

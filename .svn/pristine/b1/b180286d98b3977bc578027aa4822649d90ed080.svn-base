@@ -1,0 +1,50 @@
+lokal:
+
+	Datenbank dev
+		host: localhost
+		db: ttb
+		user: root
+		Passwort: root
+
+
+	mySQLDumper
+
+		Server: http://mysqldump/
+		User: ohne
+		Kennwort: ohne
+
+	Frontend - User: (Joomla)
+		user:
+		pw:
+
+	Backend SuperSusi (Joomla)
+		user:
+		pw:
+		email:
+
+
+
+remote:
+
+	Datenbank test
+		host:
+		db:
+		user:
+		Passwort:
+
+	Datenbank live
+		host:
+		db:
+		user:
+		Passwort:
+
+	ftp
+		Server: ftp.big5-test.com
+		user: 341187-ftp
+		Passwort: mQZks4Xp
+
+	SSH
+		Host: big5-test.com
+		Username: ssh-341187-big5
+		Passwort: wUayB4IwUbzGopWWK
+
